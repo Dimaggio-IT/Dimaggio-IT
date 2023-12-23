@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there. My name's Dmitriy aka Dimaggio 👋 
+I am a developer. I am developing on 1C and studying at the HTML Academy, specialty "fullstack developer"
 
 <!--
 **Dimaggio-IT/Dimaggio-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
