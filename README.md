@@ -10,7 +10,7 @@
 
 ### About me <img align="center" src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width="100">
 
-I am a developer. I am developing on 1C and studying at the HTML Academy, specialty "fullstack developer"
+I am a developer. I am developing on 1C and studying JavaScript, specialty "fullstack developer"
 
 - 15+ Years Experience in IT (technical specialist, system administrator, 1c programmer)
 - 🌱 I’m currently learning JavaScript
@@ -45,7 +45,7 @@ I am a developer. I am developing on 1C and studying at the HTML Academy, specia
   <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 </div>
 
-### 🛠 My stats:
+### 👀 My stats:
 
 <table>
   <tr>
